@@ -6,10 +6,10 @@ This Power BI project focuses on building an interactive, insight-driven dashboa
 The dashboard transforms raw data into clear KPIs, trends, and actionable insights using industry-standard BI practices.
 
 🎯 Objectives:
-•Convert raw data into meaningful business insights
-•Track key performance indicators (KPIs)
-•Enable data-driven decisions through interactive visuals
-•Apply best practices in data modeling and DAX
+Convert raw data into meaningful business insights
+Track key performance indicators (KPIs)
+Enable data-driven decisions through interactive visuals
+Apply best practices in data modeling and DAX
 
 
 🛠 Tools & Technologies: 
