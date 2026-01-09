@@ -1,1 +1,26 @@
+Many teams track Actual vs Budget, but still struggle to answer the real business question:
+👉 “WHY are we over/under budget, and what should we do next?”
 
+So I built this Actual vs Budget Executive Dashboard in Power BI to move beyond reporting and into decision-making.
+🧩 The Problem I Solved : 
+✔️Financial data was scattered across years, months, and projects
+✔️Leaders couldn’t quickly identify which projects were driving variance
+✔️Budget overruns were visible, but root causes were not.
+
+🔍 3 Key Insights from the Dashboard :
+1️⃣ Income Risk Is Project-Specific, Not Global :
+While overall income performance looks stable, certain projects (e.g. 1054) consistently miss budget targets by 40%+, indicating pricing or delivery inefficiencies.
+
+2️⃣ Expense Control Is Stronger Than Revenue Realization :
+Across years, expense utilization stays mostly within 90–93%, suggesting cost discipline, but revenue leakage is impacting profitability.
+
+3️⃣ Variance Trends Matter More Than Single Months :
+Yearly views reveal recurring underperformance in specific periods, which would be missed in a month-only analysis.
+
+🛠 Improvement Recommendations
+✔ Introduce project-level income forecasting instead of annual-only targets
+ ✔ Flag early-warning variance thresholds (e.g. <95% budget utilization)
+ ✔ Combine this with margin & profitability KPIs for true financial health tracking
+
+
+📊 Built using Power BI | DAX | KPI-driven storytelling
