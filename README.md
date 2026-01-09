@@ -5,20 +5,20 @@
 This Power BI project focuses on building an interactive, insight-driven dashboard to support business decision-making.
 The dashboard transforms raw data into clear KPIs, trends, and actionable insights using industry-standard BI practices.
 
-🎯 Objectives
+🎯 Objectives:
 •Convert raw data into meaningful business insights
 •Track key performance indicators (KPIs)
 •Enable data-driven decisions through interactive visuals
 •Apply best practices in data modeling and DAX
 
 
-🛠 Tools & Technologies
+🛠 Tools & Technologies: 
 •Power BI Desktop
 •Power Query (Data Cleaning & Transformation)
 •DAX (Measures & Calculations)
 •Data Modeling (Star Schema)
 
-📈 Key Features
+📈 Key Features :
 •Interactive KPIs & summary cards
 •Trend analysis using line & bar charts
 •Category-wise and time-based insights
@@ -26,13 +26,13 @@ The dashboard transforms raw data into clear KPIs, trends, and actionable insigh
 •Clean, professional BI color theme
 
 
-📊 Dashboard Highlights
-•Actual vs Budeget performance overview
-•Income and Expense: Actual vs Budeget Yearly analysis
+📊 Dashboard Highlights :
+•Actual vs. Budget performance overview
+•Income and Expense: Actual vs. Budget Yearly analysis
 •Category/segment comparison
 •Drill-down enabled visuals
 
-🚀 How to Use
+🚀 How to Use :
 •Download the .pbix file
 •Open using Power BI Desktop
 •Refresh data if required
